@@ -1,0 +1,401 @@
+true,pred,anomaly,mse
+Normal,Normal,False,0.83556426
+DDoS,DDoS,False,0.7957958
+Normal,Normal,False,0.7990646
+Command Injection,Command Injection,False,0.91849434
+Scanning,Scanning,False,0.9998915
+Command Injection,Command Injection,False,1.0234957
+Command Injection,Command Injection,False,1.0333909
+Normal,Normal,False,0.89678305
+Normal,Normal,False,0.9360219
+Data Injection,Data Injection,False,0.8270531
+Command Injection,Command Injection,False,0.9108169
+DDoS,DDoS,False,0.8540475
+Command Injection,Command Injection,False,0.9239717
+Data Injection,Data Injection,False,0.89867723
+Data Injection,Data Injection,False,0.73311144
+Normal,Normal,False,0.7594453
+DDoS,DDoS,False,0.8337572
+Data Injection,Data Injection,False,0.8453602
+Scanning,Scanning,False,1.068407
+DDoS,DDoS,False,0.7588095
+Normal,Normal,False,0.69979155
+Scanning,Scanning,False,0.96858907
+DDoS,DDoS,False,0.774216
+Command Injection,Command Injection,False,0.9770852
+Command Injection,Command Injection,False,1.0373579
+Command Injection,Command Injection,False,1.0140266
+Scanning,Scanning,False,1.0401907
+Command Injection,Command Injection,False,1.217039
+Data Injection,Data Injection,False,0.9338711
+Data Injection,Data Injection,False,0.7084057
+Normal,Normal,False,0.8271722
+Scanning,Normal,False,0.857401
+Data Injection,Data Injection,False,0.9099582
+Scanning,Scanning,False,1.0530599
+Command Injection,Command Injection,False,1.0215776
+Normal,Normal,False,0.8418923
+Data Injection,Data Injection,False,0.9357414
+DDoS,DDoS,False,0.8689882
+DDoS,DDoS,False,0.63880634
+Command Injection,Command Injection,False,0.99270785
+Normal,Normal,False,0.75828904
+Normal,Normal,False,0.60091764
+Command Injection,Command Injection,False,1.0492693
+Normal,Normal,False,0.82520235
+Command Injection,Command Injection,False,1.1695557
+Command Injection,Command Injection,False,1.0901024
+DDoS,DDoS,False,0.90708464
+DDoS,DDoS,False,0.8398901
+DDoS,DDoS,False,0.7180898
+Scanning,Normal,False,0.90794116
+Data Injection,Command Injection,False,0.9552557
+Command Injection,Command Injection,False,0.9373047
+Data Injection,Data Injection,False,0.8401592
+Command Injection,Command Injection,False,0.9594935
+Normal,Normal,False,0.79462457
+Data Injection,Data Injection,False,0.86805123
+Normal,Normal,False,0.84088224
+Normal,Normal,False,0.7082584
+Command Injection,Command Injection,False,0.86543983
+Normal,Normal,False,0.8625033
+Data Injection,Data Injection,False,0.82522863
+Scanning,Normal,False,0.99419
+Scanning,Scanning,False,1.0087025
+DDoS,DDoS,False,0.713458
+Scanning,Normal,False,1.1097189
+Command Injection,Command Injection,False,0.87103146
+Command Injection,Command Injection,False,1.0770438
+Normal,Normal,False,0.7452967
+Data Injection,Data Injection,False,0.8594603
+Data Injection,Data Injection,False,0.7776992
+Command Injection,Command Injection,False,1.0548658
+Scanning,Scanning,False,0.99271107
+Scanning,Scanning,False,0.967413
+DDoS,DDoS,False,0.79452556
+Scanning,Scanning,False,1.04658
+Data Injection,Data Injection,False,0.90096396
+Scanning,Scanning,False,1.0597514
+DDoS,DDoS,False,0.7330002
+Data Injection,Data Injection,False,0.91899735
+Data Injection,Command Injection,False,0.82322985
+Normal,Normal,False,0.717378
+Scanning,Normal,False,0.9985813
+Data Injection,Data Injection,False,0.8647025
+Normal,Normal,False,0.8257299
+Scanning,Scanning,False,0.94779414
+Scanning,Normal,False,1.0610651
+DDoS,DDoS,False,0.78956115
+Command Injection,Command Injection,False,1.1908327
+Scanning,Normal,False,1.0984054
+DDoS,DDoS,False,0.5823232
+DDoS,DDoS,False,0.8729689
+Command Injection,Command Injection,False,0.9516555
+Command Injection,Command Injection,False,0.8729371
+Command Injection,Command Injection,False,1.0157956
+Normal,Normal,False,0.67419076
+Scanning,Normal,False,0.97196513
+Data Injection,Data Injection,False,0.83046037
+Normal,Normal,False,0.8221701
+Scanning,Scanning,False,1.0019172
+DDoS,DDoS,False,0.8632462
+Scanning,Normal,False,1.0200163
+Scanning,Scanning,False,1.0587677
+DDoS,DDoS,False,0.8448316
+Normal,Normal,False,0.70598614
+Normal,Normal,False,0.9659688
+Data Injection,Data Injection,False,0.86000496
+Command Injection,Command Injection,False,1.0728358
+Data Injection,Data Injection,False,0.7074506
+Data Injection,Data Injection,False,0.8099323
+Command Injection,Command Injection,False,0.97273344
+Scanning,Scanning,False,1.1150527
+Command Injection,Command Injection,False,0.9578392
+Normal,Normal,False,0.8392764
+Normal,Normal,False,0.76034003
+DDoS,DDoS,False,0.916302
+Normal,Normal,False,0.82919127
+DDoS,DDoS,False,0.6897148
+Normal,Normal,False,0.84442586
+Data Injection,Data Injection,False,0.7683231
+Data Injection,Command Injection,False,0.8366541
+Normal,Normal,False,0.7679986
+Data Injection,Data Injection,False,0.87868625
+DDoS,DDoS,False,0.74340284
+Scanning,Scanning,False,0.953414
+Scanning,Scanning,False,0.995164
+Scanning,Normal,False,0.9327456
+Command Injection,Data Injection,False,0.9897833
+DDoS,DDoS,False,0.79686546
+Normal,Normal,False,0.86779815
+Normal,Normal,False,0.8316076
+Data Injection,Data Injection,False,0.99396116
+Command Injection,Command Injection,False,1.1113132
+Data Injection,Data Injection,False,0.7938064
+DDoS,DDoS,False,0.8804152
+Command Injection,Command Injection,False,0.9752962
+DDoS,DDoS,False,0.73445904
+Data Injection,Data Injection,False,0.83691686
+DDoS,DDoS,False,0.8799345
+DDoS,DDoS,False,0.7586572
+Data Injection,Data Injection,False,0.88683534
+DDoS,DDoS,False,0.8505625
+Scanning,Scanning,False,1.0330861
+Scanning,Scanning,False,1.0612789
+Command Injection,Command Injection,False,0.84751517
+Normal,Normal,False,0.7941345
+Normal,Normal,False,0.90577996
+Scanning,Scanning,False,1.0244486
+DDoS,DDoS,False,0.8259529
+Scanning,Normal,False,1.1882144
+Scanning,Scanning,False,1.1622975
+Command Injection,Command Injection,False,1.0506107
+Normal,Normal,False,0.7836192
+Normal,Normal,False,0.80437887
+Scanning,Scanning,False,1.0276607
+Data Injection,Data Injection,False,0.87617344
+Normal,Normal,False,0.80530614
+Scanning,Scanning,False,1.2055972
+Scanning,Scanning,False,1.0306163
+Data Injection,Data Injection,False,0.83527434
+Command Injection,Command Injection,False,0.96183026
+DDoS,DDoS,False,0.8826729
+Command Injection,Command Injection,False,0.98404324
+Scanning,Scanning,False,1.2423491
+Normal,Normal,False,0.6071156
+Normal,Normal,False,0.6686009
+DDoS,DDoS,False,0.87945575
+Scanning,Scanning,False,1.2281375
+Command Injection,Command Injection,False,0.96957886
+Scanning,Scanning,False,0.91905725
+Scanning,Normal,False,0.9844846
+DDoS,DDoS,False,0.8456919
+DDoS,DDoS,False,0.93139726
+Normal,Normal,False,0.8066381
+Command Injection,Command Injection,False,0.9103987
+Scanning,Normal,False,1.1234386
+Scanning,Scanning,False,0.9096617
+Command Injection,Command Injection,False,1.0219406
+Normal,Normal,False,0.79014885
+DDoS,DDoS,False,0.81477505
+Data Injection,Data Injection,False,0.8273954
+DDoS,DDoS,False,0.8892224
+Command Injection,Command Injection,False,1.0875046
+DDoS,DDoS,False,0.79590774
+Command Injection,Command Injection,False,1.0060028
+Scanning,Normal,False,1.019635
+Command Injection,Command Injection,False,0.84215444
+Normal,Normal,False,0.83893806
+Data Injection,Data Injection,False,0.80125517
+Command Injection,Command Injection,False,1.0557142
+Scanning,Scanning,False,1.0418108
+Scanning,Scanning,False,1.015044
+DDoS,DDoS,False,0.8038786
+Normal,Normal,False,0.73313373
+DDoS,DDoS,False,0.68326813
+Scanning,Normal,False,0.93956345
+DDoS,DDoS,False,0.7447041
+DDoS,DDoS,False,0.87775654
+Normal,Normal,False,0.65523654
+Data Injection,Data Injection,False,0.74085796
+Command Injection,Command Injection,False,0.9863015
+Scanning,Scanning,False,0.90973306
+Normal,Normal,False,0.83670443
+DDoS,DDoS,False,0.8782176
+DDoS,DDoS,False,0.8194872
+Normal,Normal,False,0.8128844
+Normal,Normal,False,0.83151364
+DDoS,DDoS,False,0.82466644
+DDoS,DDoS,False,0.7873792
+Scanning,Scanning,False,0.97052675
+Scanning,Scanning,False,1.0673901
+Data Injection,Data Injection,False,0.78083515
+Command Injection,Command Injection,False,1.0307341
+Data Injection,Data Injection,False,0.687128
+DDoS,DDoS,False,0.83537924
+DDoS,DDoS,False,0.7303766
+DDoS,DDoS,False,0.7216016
+Scanning,Scanning,False,1.1622539
+Normal,Normal,False,0.77301025
+Scanning,Normal,False,1.0892459
+Command Injection,Command Injection,False,0.8434571
+Normal,Normal,False,0.76069325
+Data Injection,Data Injection,False,0.8092149
+Data Injection,Command Injection,False,0.9384955
+Command Injection,Command Injection,False,1.0681332
+Normal,Normal,False,0.73127466
+Command Injection,Command Injection,False,0.9610072
+DDoS,DDoS,False,0.7609561
+Normal,Normal,False,0.8308517
+DDoS,DDoS,False,0.7738663
+Command Injection,Command Injection,False,0.87649256
+Scanning,Scanning,False,1.0473502
+Normal,Normal,False,0.7624489
+Data Injection,Data Injection,False,0.8808866
+DDoS,DDoS,False,0.8035175
+Command Injection,Command Injection,False,1.024586
+Scanning,Scanning,False,1.1899921
+Data Injection,Data Injection,False,0.8477594
+DDoS,DDoS,False,0.74953955
+Data Injection,Command Injection,False,0.771948
+Command Injection,Command Injection,False,0.9939085
+DDoS,DDoS,False,0.7659926
+Normal,Normal,False,0.6357591
+Normal,Normal,False,0.7071753
+Data Injection,Data Injection,False,0.84533495
+DDoS,DDoS,False,0.8107137
+Command Injection,Command Injection,False,1.0512348
+Scanning,Scanning,False,1.0821953
+Data Injection,Data Injection,False,1.0029657
+Scanning,Scanning,False,1.1850526
+Data Injection,Data Injection,False,0.77004564
+DDoS,DDoS,False,0.9218677
+Normal,Normal,False,0.8638155
+Data Injection,Data Injection,False,0.81665283
+Data Injection,Data Injection,False,0.7650187
+Scanning,Normal,False,1.0115606
+Scanning,Scanning,False,1.2478683
+Command Injection,Command Injection,False,0.93738526
+DDoS,DDoS,False,0.80251426
+DDoS,DDoS,False,0.82246476
+Command Injection,Command Injection,False,1.110799
+Scanning,Normal,False,0.9460375
+Data Injection,Data Injection,False,0.75118834
+Normal,Normal,False,0.74264866
+Scanning,Scanning,False,0.9982628
+Command Injection,Command Injection,False,1.1151392
+DDoS,DDoS,False,0.8867634
+Scanning,Scanning,False,1.0399638
+Scanning,Scanning,False,1.0265267
+Scanning,Scanning,False,1.0606472
+Command Injection,Command Injection,False,1.0456935
+Data Injection,Data Injection,False,0.7792682
+Command Injection,Command Injection,False,0.93607014
+Normal,Normal,False,0.6918408
+Data Injection,Data Injection,False,0.85181755
+Data Injection,Data Injection,False,0.7560614
+DDoS,DDoS,False,0.8507508
+Data Injection,Data Injection,False,0.880122
+Data Injection,Data Injection,False,1.0025915
+Data Injection,Data Injection,False,0.78627795
+Normal,Normal,False,0.7422303
+Command Injection,Command Injection,False,0.8752504
+Command Injection,Command Injection,False,0.94220954
+Normal,Normal,False,0.88406074
+DDoS,DDoS,False,0.8432152
+Normal,Normal,False,0.8486733
+Command Injection,Command Injection,False,0.80533713
+Data Injection,Data Injection,False,0.82043433
+Data Injection,Data Injection,False,0.7568027
+Data Injection,Data Injection,False,0.769369
+Data Injection,Command Injection,False,0.8104772
+Scanning,Scanning,False,1.071717
+Normal,Normal,False,0.79304874
+Data Injection,Data Injection,False,0.8188353
+DDoS,DDoS,False,0.96320474
+Scanning,Scanning,False,1.0612463
+DDoS,DDoS,False,0.82540536
+Command Injection,Command Injection,False,1.0256101
+Data Injection,Data Injection,False,0.8000137
+DDoS,DDoS,False,1.0093052
+DDoS,DDoS,False,0.73353
+DDoS,DDoS,False,0.7883022
+Command Injection,Command Injection,False,1.0459646
+Data Injection,Data Injection,False,0.82555944
+Normal,Normal,False,0.7687095
+Scanning,Scanning,False,1.1075456
+Scanning,Scanning,False,0.89503425
+Normal,Normal,False,0.85709035
+Normal,Normal,False,0.85752887
+Scanning,Normal,False,1.0401443
+Scanning,Normal,False,0.9961687
+Command Injection,Command Injection,False,0.9376193
+Scanning,Scanning,False,1.248412
+Command Injection,Command Injection,False,1.0126185
+Scanning,Normal,False,0.9538587
+DDoS,DDoS,False,0.673935
+Normal,Normal,False,0.86762357
+Normal,Normal,False,0.7667039
+Normal,Normal,False,0.92216235
+DDoS,DDoS,False,0.9480606
+Normal,Normal,False,0.8073068
+Normal,Normal,False,0.80258065
+Normal,Normal,False,0.8311335
+Normal,Normal,False,0.7592811
+Command Injection,Data Injection,False,1.0222996
+Normal,Normal,False,0.8009857
+Scanning,Scanning,False,0.99923396
+DDoS,DDoS,False,0.9651893
+DDoS,DDoS,False,0.8842951
+DDoS,DDoS,False,0.87542415
+DDoS,DDoS,False,0.75811505
+Data Injection,Data Injection,False,0.865878
+Normal,Normal,False,0.8473212
+Data Injection,Data Injection,False,0.9126661
+Data Injection,Data Injection,False,0.82248515
+Command Injection,Command Injection,False,1.022838
+Normal,Normal,False,0.790947
+DDoS,DDoS,False,0.7249073
+Data Injection,Data Injection,False,0.8150797
+Normal,Normal,False,0.7522117
+Normal,Normal,False,0.97225314
+Scanning,Normal,False,0.9343634
+Scanning,Scanning,False,1.0447222
+Normal,Normal,False,0.7291659
+Data Injection,Data Injection,False,0.8743218
+Data Injection,Data Injection,False,0.86695683
+Normal,Normal,False,0.8592719
+Data Injection,Data Injection,False,0.80727935
+Data Injection,Data Injection,False,0.81207824
+DDoS,DDoS,False,0.7508278
+Command Injection,Command Injection,False,0.8542551
+DDoS,DDoS,False,0.75781137
+Scanning,Scanning,False,0.94628274
+Scanning,Normal,False,1.0812173
+DDoS,DDoS,False,0.8672711
+Normal,Normal,False,0.71973735
+DDoS,DDoS,False,0.722252
+DDoS,DDoS,False,0.7558796
+Command Injection,Command Injection,False,0.9234489
+Data Injection,Data Injection,False,0.70908296
+Normal,Normal,False,0.7607738
+Scanning,Scanning,False,1.1121818
+Data Injection,Data Injection,False,0.7101861
+Command Injection,Command Injection,False,0.80165595
+DDoS,DDoS,False,0.84786206
+DDoS,DDoS,False,0.8409549
+Scanning,Scanning,False,1.1576927
+Normal,Normal,False,0.89388496
+Scanning,Scanning,False,1.121859
+Command Injection,Command Injection,False,0.9587154
+Scanning,Scanning,False,0.969266
+Data Injection,Data Injection,False,0.74532306
+Data Injection,Data Injection,False,0.7597215
+Scanning,Scanning,False,1.0355995
+Data Injection,Command Injection,False,0.8006781
+Command Injection,Command Injection,False,0.98061985
+Data Injection,Data Injection,False,0.800523
+DDoS,DDoS,False,0.8027313
+Data Injection,Data Injection,False,0.91793233
+Data Injection,Data Injection,False,0.80869883
+Data Injection,Command Injection,False,0.79460305
+Scanning,Scanning,False,0.9076408
+Command Injection,Command Injection,False,0.9986913
+Data Injection,Data Injection,False,0.78460586
+Data Injection,Data Injection,False,0.8780712
+Command Injection,Command Injection,False,0.9807205
+Command Injection,Command Injection,False,1.0326545
+DDoS,DDoS,False,0.7620697
+Normal,Normal,False,0.80833846
+Command Injection,Command Injection,False,1.158813
+Data Injection,Data Injection,False,0.88484776
+Command Injection,Data Injection,False,1.1009158
+Command Injection,Command Injection,False,0.9254035
+Command Injection,Command Injection,False,1.0446628
+Scanning,Scanning,False,0.99877053
+Command Injection,Command Injection,False,1.2108486
+Command Injection,Command Injection,False,1.0157083
+Command Injection,Command Injection,False,1.0735633
+Command Injection,Data Injection,False,0.9680417
+DDoS,DDoS,False,0.9180982
+Normal,Normal,False,0.8315686
